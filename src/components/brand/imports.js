@@ -1,13 +1,13 @@
-import google from '../../assets/google.png';
-import slack from '../../assets/slack.png';
-import atlassian from '../../assets/atlassian.png';
-import dropbox from '../../assets/dropbox.png';
-import shopify from '../../assets/shopify.png';
+import Kali from '../../assets/Kali.png';
+import Metasploit from '../../assets/Metasploit.png';
+import Wireshark from '../../assets/Wireshark.png';
+import Nmap from '../../assets/Nmap.png';
+import Parrot from '../../assets/Parrot.png';
 
 export {
-  google,
-  slack,
-  atlassian,
-  dropbox,
-  shopify,
+  Kali,
+  Metasploit,
+  Wireshark,
+  Nmap,
+  Parrot
 };
